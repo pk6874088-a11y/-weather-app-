@@ -58,6 +58,4 @@ while True:
     elif choice == "5":
         print("Result:", modulo(a, b))
     elif choice == "6":
-        print("Result:", power(a, b))
-    else:
-        print("गलत choice")
+        print("Result:"
